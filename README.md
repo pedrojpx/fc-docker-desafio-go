@@ -1,1 +1,1 @@
-Link da imagem criada no Docker Hub:  https://hub.docker.com/repository/docker/pjpxavier/fullcycle/general
+Link da imagem criada no Docker Hub:  https://hub.docker.com/repository/docker/pjpxavier/docker-desafio1/general
